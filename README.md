@@ -2,7 +2,6 @@
 
 <p align="center">
   <a href="mailto:leonardoramiroalves@gmail.com"><img src="https://img.shields.io/badge/Email-leonardoramiroalves@gmail.com-purple" alt="Email"></a>
-  <a href="https://criarmeulink.com.br/u/1718588884"><img src="https://img.shields.io/badge/Contact-+55_(61)98268-9196-blue" alt="PhoneNumber"></a>
 </p>
 <p align="center">
 - 🌱 Currently studying the C language<br/>
