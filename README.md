@@ -10,9 +10,8 @@
 - 😄 Pronouns: he/him<br/>
   <summary>👨‍💻 More about me</summary>
 
-  - 💬 I am 21 years old, currently living in Brazil. I have an intermediate level in English and have experience with Java, Python and C.
+  - 💬 I am 22 years old, currently living in Brazil. I have an intermediate level in English and have experience with Java, Python and C.
 
-  - ⚡ I enjoy reading a good book, as well as watching movies and playing games!.
 </details>
 
 
